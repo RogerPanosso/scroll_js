@@ -2,3 +2,17 @@ body {
   margin: 0!important;
   padding: 0!important;
 }
+.card-header {
+  border:1px solid #ccc!important;
+}
+.scrollButton {
+  width: 40px!important;
+  height: 40px!important;
+  border-radius: 20px!important;
+  position: fixed!important;
+  right: 10px!important;
+  bottom: 10px!important;
+  z-index: 1000!important;
+  cursor: pointer!important;
+  display: none;
+}
